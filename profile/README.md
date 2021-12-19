@@ -2,8 +2,6 @@
 
 Give and receive kudos from your favorite app using `/kudos` 🎉
 
-This is the main repository for /Kudos used for documentation, planning, and discussions.
-
 ## Useful Links
 
 | Link | Description |
