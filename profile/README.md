@@ -7,9 +7,11 @@ Give and receive kudos from your favorite app using `/kudos` 🎉
 | Link | Description |
 | ---- | ----------- |
 | [slashkudos](https://github.com/slashkudos) | The GitHub org containing all the projects, documentation and code |
-| [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site) | The Kudos marketing website (slashkudos.com) repository. Built with Wordpress, hosted on SiteGround and routed by AWS Route 53. |
-| [slashkudos/kudos-web](https://github.com/slashkudos/kudos-web) | The Kudos web app (app.slashkudos.com) repository. Built on AWS with React + TypeScript. |
 | [slashkudos/kudos-api](https://github.com/slashkudos/kudos-api) | The Kudos API repository. Built on AWS using DynamoDB, AppSync GraphQL and Serverless Lambda REST APIs. |
+| [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site) | The Kudos marketing website (slashkudos.com) repository. Built with Wordpress, hosted on SiteGround and routed by AWS Route 53. |
+| [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter) | The Kudos Twitter integration. |
+| [slashkudos/kudos-web](https://github.com/slashkudos/kudos-web) | The Kudos web app (app.slashkudos.com) repository. Built on AWS with React + TypeScript. |
+| <hr/> | <hr/> |
 | [slashkudos.com](https://slashkudos.com) | The Kudos marketing site |
 | [app.slashkudos.com](https://app.slashkudos.com) | The Kudos web app |
 | [@slashkudos][Kudos Twitter] | The Kudos twitter account |
