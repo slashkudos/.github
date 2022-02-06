@@ -6,7 +6,8 @@ Give and receive kudos from your favorite app using `/kudos` 🎉
 
 | Link | Description |
 | ---- | ----------- |
-| [slashkudos](https://github.com/slashkudos) | The GitHub org containing all the projects, documentation and code |
+| [slashkudos](https://github.com/slashkudos) | The GitHub org containing all the projects, documentation and code. |
+| [slashkudos/slashkudos](https://github.com/slashkudos/slashkudos) | The main repo that you can create a mono Codespace from. |
 | [slashkudos/kudos-api](https://github.com/slashkudos/kudos-api) | The Kudos API repository. Built on AWS using DynamoDB, AppSync GraphQL and Serverless Lambda REST APIs. |
 | [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site) | The Kudos marketing website (slashkudos.com) repository. Built with Wordpress, hosted on SiteGround and routed by AWS Route 53. |
 | [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter) | The Kudos Twitter integration. |
