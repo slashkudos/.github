@@ -53,16 +53,16 @@ Features will be rolled out in a series of phases. At a high-level, we will focu
 
 See [The Slash Kudos Project](https://github.com/orgs/slashkudos/projects/1/views/1) for a more in-depth plan.
 
-| # | Phase | Features | ETA |
-| :-: | ----- | -------- | ---
-| 1 | Social networking apps | Twitter Integration | December 2022
-| 2 | Open source developer apps | - Discord<br/>- GitHub | TBD
-| 3 | Enterprise instant messaging apps | - Slack<br/>- Microsoft Teams | TBD
-| 4 | Central UI for Kudos (app.slashkudos.com) | - View the public Kudos feed<br/>- View Kudos you received<br/>- View Kudos you gave | TBD
-| TBD | app.slashkudos.com | Create a personal profile and associate several app accounts | TBD
-| TBD | app.slashkudos.com | Create a company account for internal Kudos | TBD
-| TBD | GitHub Private | Give Kudos from private repos and keep them private | TBD
-| TBD | SSO | Use SSO for company and personal profiles | TBD
+| # | Phase | Features | ETA | Status |
+| :-: | ----- | -------- | --- | ---- |
+| 1 | Social networking apps | Twitter Integration | December 2022 | Done
+| 2 | Central UI for Kudos (app.slashkudos.com) | - View the public Kudos feed<br/>- View Kudos you received<br/>- View Kudos you gave | May 2022 | Done
+| 3 | Open source developer apps | - Discord<br/>- GitHub | TBD | Not Started
+| 4 | Enterprise instant messaging apps | - Slack<br/>- Microsoft Teams | TBD | Not Started
+| TBD | app.slashkudos.com | Create a personal profile and associate several app accounts | TBD | Not Started
+| TBD | app.slashkudos.com | Create a company account for internal Kudos | TBD | Not Started
+| TBD | GitHub Private | Give Kudos from private repos and keep them private | TBD | Not Started
+| TBD | SSO | Use SSO for company and personal profiles | TBD | Not Started
 
 <!-- Links -->
 [Kudos Twitter]: https://twitter.com/slashkudos
