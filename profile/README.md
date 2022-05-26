@@ -6,7 +6,7 @@ This is the slashkudos GitHub landing page.
 
 See [slashkudos/slashkudos] for technical documentation, planning, and discussions.
 
-## Popular slashkudos Repositories
+## Popular slashkudos resources
 
 - [slashkudos](https://github.com/slashkudos)
 - [slashkudos/slashkudos]
@@ -14,6 +14,7 @@ See [slashkudos/slashkudos] for technical documentation, planning, and discussio
 - [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter)
 - [slashkudos/kudos-api](https://github.com/slashkudos/kudos-api)
 - [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site)
+- [slashkudos project board]
 
 ## slashkudos in the wild
 
@@ -53,7 +54,7 @@ We are planning on building integrations for giving kudos from these apps. If yo
 
 Features will be rolled out in a series of phases. At a high-level, we will focus on setting up the proper integrations to give and receive kudos on the most popular apps first. Then we will focus on the exploration and reporting piece on app.slashkudos.com.
 
-See [The slashkudos Project](https://github.com/orgs/slashkudos/projects/1/views/1) for a more in-depth plan.
+See the [slashkudos project board] for more granular details.
 
 | # | Phase | Features | ETA | Status |
 | :-: | ----- | -------- | --- | ---- |
@@ -70,3 +71,4 @@ See [The slashkudos Project](https://github.com/orgs/slashkudos/projects/1/views
 [slashkudos Twitter]: https://twitter.com/slashkudos
 [app.slashkudos.com]: https://app.slashkudos.com/
 [slashkudos/slashkudos]: https://github.com/slashkudos/slashkudos
+[slashkudos project board]: https://github.com/orgs/slashkudos/projects/1/views/5
