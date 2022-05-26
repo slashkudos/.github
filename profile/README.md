@@ -2,7 +2,9 @@
 
 Give and receive kudos from your favorite app using `/kudos` 🎉
 
-This is the main repository for slashkudos used for documentation, planning, and discussions.
+This is the slashkudos GitHub landing page.
+
+See [slashkudos/slashkudos] for technical documentation, planning, and discussions.
 
 ## Useful Links
 
