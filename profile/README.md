@@ -9,7 +9,7 @@ This is the main repository for slashkudos used for documentation, planning, and
 | Link | Description |
 | ---- | ----------- |
 | [slashkudos](https://github.com/slashkudos) | The GitHub org containing all the projects, documentation and code. |
-| [slashkudos/slashkudos](https://github.com/slashkudos/slashkudos) | The main repo that you can create a mono Codespace from. |
+| [slashkudos/slashkudos] | The main repo that you can create a mono Codespace from. |
 | [slashkudos/kudos-api](https://github.com/slashkudos/kudos-api) | The Kudos API repository. Built on AWS using DynamoDB, AppSync GraphQL and Serverless Lambda REST APIs. |
 | [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site) | The Kudos marketing website (slashkudos.com) repository. Built with Wordpress, hosted on SiteGround and routed by AWS Route 53. |
 | [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter) | The Kudos Twitter integration. |
@@ -29,22 +29,22 @@ Twitter works a bit differently - just Tweet [@slashkudos][Kudos Twitter] where 
 
 ### Exploring Kudos
 
-After rolling out integrations to several of the [apps we plan to support](#supported-apps), we will provide a central place to view all your Kudos on app.slashkudos.com. This is where you will be able to:
+Visit [app.slashkudos.com] where you can:
 
-- View Kudos you have received
-- View Kudos you have given
-- View a universal feed of Kudos
+- View kudos you have received
+- View kudos you have given
+- View a universal feed of kudos
 
 ## Supported Apps
 
-I am planning on building integrations for giving kudos from these apps. If you want me to create an integration for one not on here, or you want to help create an integration, please create an issue in this repo.
+We are planning on building integrations for giving kudos from these apps. If you want me to create an integration for one not on here, or you want to help create an integration, please [create an issue](https://github.com/slashkudos/slashkudos/issues/new) in [slashkudos/slashkudos].
 
 ```
-- Discord
-- GitHub
-- Microsoft Teams
+- Twitter (Done)
+- GitHub (In progress)
 - Slack
-- Twitter
+- Discord
+- Microsoft Teams
 ```
 
 ## Features
@@ -66,3 +66,5 @@ See [The Slash Kudos Project](https://github.com/orgs/slashkudos/projects/1/view
 
 <!-- Links -->
 [Kudos Twitter]: https://twitter.com/slashkudos
+[app.slashkudos.com]: https://app.slashkudos.com/
+[slashkudos/slashkudos]: https://github.com/slashkudos/slashkudos
