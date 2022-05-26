@@ -53,7 +53,7 @@ We are planning on building integrations for giving kudos from these apps. If yo
 
 Features will be rolled out in a series of phases. At a high-level, we will focus on setting up the proper integrations to give and receive Kudos on the most popular apps first. Then we will focus on the exploration and reporting piece on app.slashkudos.com.
 
-See [The Slash Kudos Project](https://github.com/orgs/slashkudos/projects/1/views/1) for a more in-depth plan.
+See [The slashkudos Project](https://github.com/orgs/slashkudos/projects/1/views/1) for a more in-depth plan.
 
 | # | Phase | Features | ETA | Status |
 | :-: | ----- | -------- | --- | ---- |
