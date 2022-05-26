@@ -8,7 +8,6 @@ See [slashkudos/slashkudos] for technical documentation, planning, and discussio
 
 ## Popular slashkudos resources
 
-- [slashkudos](https://github.com/slashkudos)
 - [slashkudos/slashkudos]
 - [slashkudos/kudos-web](https://github.com/slashkudos/kudos-web)
 - [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter)
