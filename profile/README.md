@@ -11,6 +11,7 @@ See [slashkudos/slashkudos] for technical documentation, planning, and discussio
 - [slashkudos/slashkudos]
 - [slashkudos/kudos-web](https://github.com/slashkudos/kudos-web)
 - [slashkudos/kudos-twitter](https://github.com/slashkudos/kudos-twitter)
+- [slashkudos/kudos-github](https://github.com/slashkudos/kudos-github)
 - [slashkudos/kudos-api](https://github.com/slashkudos/kudos-api)
 - [slashkudos/kudos-site](https://github.com/slashkudos/kudos-site)
 - [slashkudos project board]
