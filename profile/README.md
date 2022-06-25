@@ -44,28 +44,12 @@ We are planning on building integrations for giving kudos from these apps. If yo
 
 ```text
 - Twitter (Done)
-- GitHub (In progress)
+- GitHub Public Repositories (Done)
+- GitHub Private Repositories
 - Slack
 - Discord
 - Microsoft Teams
 ```
-
-## Project Roadmap
-
-Features will be rolled out in a series of phases. At a high-level, we will focus on setting up the proper integrations to give and receive kudos on the most popular apps first. Then we will focus on the exploration and reporting piece on app.slashkudos.com.
-
-See the [slashkudos project board] for more granular details.
-
-| # | Phase | Features | ETA | Status |
-| :-: | ----- | -------- | --- | ---- |
-| 1 | Social networking apps | Twitter Integration | December 2022 | Done
-| 2 | Central UI for kudos (app.slashkudos.com) | - View the public kudos feed<br/>- View kudos you received<br/>- View kudos you gave | May 2022 | Done
-| 3 | Open source developer apps | - Discord<br/>- GitHub | TBD | Not Started
-| 4 | Enterprise instant messaging apps | - Slack<br/>- Microsoft Teams | TBD | Not Started
-| TBD | app.slashkudos.com | Create a personal profile and associate several app accounts | TBD | Not Started
-| TBD | app.slashkudos.com | Create a company account for internal kudos | TBD | Not Started
-| TBD | GitHub Private | Give kudos from private repos and keep them private | TBD | Not Started
-| TBD | SSO | Use SSO for company and personal profiles | TBD | Not Started
 
 <!-- Links -->
 [slashkudos Twitter]: https://twitter.com/slashkudos
