@@ -28,7 +28,7 @@ See [slashkudos/slashkudos] for technical documentation, planning, and discussio
 
 slashkudos integrates into the apps you already know and love, so no need to learn something new. In Discord, GitHub, Teams, and Slack where the slashkudos app is installed, just type `/kudos Thanks @philip-gai for being awesome! 🚀` to give kudos.
 
-Twitter works a bit differently - just Tweet [@slashkudos][slashkudos Twitter]. For example, tweet `@slashkudos Thanks @philip-gai for being awesome! 🚀`.
+Twitter works a bit differently - just Tweet [@slashkudos][slashkudos Twitter]. For example, tweet `@slashkudos Kudos to @philipgai_dev for creating slashkudos!`.
 
 ### Exploring Kudos
 
